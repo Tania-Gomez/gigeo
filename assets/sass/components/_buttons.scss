@@ -1,0 +1,21 @@
+.profile__button--powderblue {
+  margin: 2rem 0;
+  padding: 0.5rem 2rem;
+  background-color: $powderblue;
+  color: $white;
+  border: 1px solid $powderblue;
+  &:hover {
+    color: $dimgray;
+  }
+}
+
+.profile__button--tomato {
+  margin: 2rem 0;
+  padding: 0.5rem 2rem;
+  background-color: $tomato;
+  color: $white;
+    border: 1px solid $tomato;
+  &:hover {
+    color: $dimgray;
+  }
+}
